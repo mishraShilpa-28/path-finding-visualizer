@@ -12,7 +12,7 @@ This project is an interactive Path-finding Visualizer built with React, designe
 
 🎯 Focuses on **pathfinding algorithms** and their visual representation.
 
-🧩 All tutorial-related source code is located in:
+🧩 All related source code is located in:
 - `src/PathfindingVisualizer`
 - `src/algorithms`
 
@@ -27,7 +27,7 @@ The main visualizer component is imported and rendered in `App.js`.
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/pathfinding-visualizer.git
+git clone https://github.com/mishraShilpa-28/path-finding-visualizer.git
 cd path-finding-visualizer
 npm install
 ```
